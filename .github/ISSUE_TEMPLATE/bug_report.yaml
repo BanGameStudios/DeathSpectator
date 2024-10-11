@@ -55,4 +55,4 @@ body:
     attributes:
       label: Logs
       description: If necessary, please upload your log file from logs/latest.log to https://gist.github.com/ and enter the link below. It can always contain important and necessary information.
-      placeholder: Example: https://gist.github.com/someaddons/aa5986b9495863c3b5
+      placeholder: Ex. https://gist.github.com/someaddons/aa5986b9495863c3b5
